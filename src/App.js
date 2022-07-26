@@ -1,12 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
-import HidableText from './HidableText';
 import AutocompleteText from './AutocompleteText';
+import words from './words';
 
 function App() {
   return (
     <div className="App">
-      <AutocompleteText/>
+      <AutocompleteText items ={words}/>
     </div>
   );
 }
