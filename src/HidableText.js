@@ -12,7 +12,7 @@ export default class HidableText extends React.Component {
 
         toggleIsHidden() {
             this.setState((currentState) => ({
-                isHidden: currentState.isHidden,
+                isHidden: !currentState.isHidden,
             }) 
             );
         }
