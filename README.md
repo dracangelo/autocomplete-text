@@ -1,3 +1,10 @@
+# About the app
+
+just type in the form box to veiw suggestions 
+
+# live link
+https://dracangelo.github.io/autocomplete-text
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
